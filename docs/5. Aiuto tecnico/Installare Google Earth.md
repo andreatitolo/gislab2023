@@ -1,6 +1,6 @@
-# Windows
+## Windows
 
-# macOS
+## macOS
 
-# Linux
+## Linux
 

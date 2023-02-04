@@ -1,4 +1,4 @@
-# Struttura del laboratorio
+## Struttura del laboratorio
 
 - 2-3 lezioni teoriche sull'archeologia del paesaggio
 	- Storia della disciplina
