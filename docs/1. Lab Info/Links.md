@@ -1,7 +1,12 @@
 ## Dati
 
-Dati per lezione
+Dati per lezione: 
+- Lezione 1
+- Lezione 2
+- ...
 
-# Slides
+## Slides
 
-[[Elenco Slides]]
+Tutte le slide sono elencate alla pagina seguente:
+
+- [[Elenco Slides]]

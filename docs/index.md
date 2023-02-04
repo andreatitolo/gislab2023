@@ -1,11 +1,17 @@
-# Obsidian Notes
+# Il Paesaggio archeologico dell'Asia Occidentale Antica
 
 Publish your public notes with MkDocs
 
-## Hello World!
+## Struttura del sito
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+Tutte le informazioni sul laboratorio sono riportate in `1.Lab Info` 
 
-The folders in `/docs` appear as the main sections on the navigation bar.
+Le slides appariranno a fine di ogni lezione in `2. Slides`
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+## Per iniziare
+
+- Installare QGIS
+- Installare Google Earth
+
+Requisiti minimi: 
+- un laptop
