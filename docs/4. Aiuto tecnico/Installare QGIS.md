@@ -3,9 +3,23 @@
 Andare alla pagina di [download di QGIS](https://qgis.org/en/site/forusers/download.html#windows)
 Cliccare su "*Looking for the most stable version? Get QGIS 3.22 LTR*"
 
+![[qgisWinDownload.png]]
+
+Cliccare due volte sul file scaricato *QGIS-OSGeo4W-3.22.16-1.msi*
+
+Nella finestra di installazione cliccare su "*Next*" e accettare i termini d'uso. Scegliere poi dove installare QGIS, la posizione di default (*C:/Programmi/QGIS 3.22.16*) va benissimo. Lasciare le altre opzioni di default.
+
+![[qgisWinFolder.png]]
+
+Cliccare su "*Install*" (potrebbe essere necessario inserire la password) e attendere che l'installazione venga completata, cliccare su "Si" se appare una schermata che chiede di permettere all'app di apportare modifiche al sistema.
+
+![[qgisWinInstall.png]]
+
+Una volta completata, cliccare su "*Finish*".
+
 ## macOS
 
-**N.B.** Alcuni passaggi potrebbero variare a seconda della versione di macOS disponibile. Se il programma non viene avviato o se viene segnalata un'incompatibilità con la versione di macOS installata, scaricare una versione precedente da questo [link](https://www.kyngchaos.com/software/archive/qgis/)
+**N.B.** Alcuni passaggi potrebbero variare a seconda della versione di macOS disponibile. Se il programma non viene avviato o se viene segnalata un'incompatibilità con la versione di macOS installata, scaricare una versione precedente da questo [link](https://www.kyngchaos.com/software/archive/qgis/).
 
 Andare alla pagina di [download di QGIS](https://qgis.org/en/site/forusers/download.html#windows)
 Cliccare su "*Looking for the most stable version? Get QGIS 3.22 LTR*"
@@ -35,4 +49,3 @@ Nella schermata successiva, cliccare su "Apri"
 
 Andare alla pagina [download di QGIS](https://qgis.org/en/site/forusers/download.html#windows)
 Scegliere la propria distribuzione dalla lista e seguire le istruzioni riportate.
-
