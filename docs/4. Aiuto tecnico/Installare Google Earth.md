@@ -32,7 +32,7 @@ Cliccare due volte sul file .dmg appena scaricato poi ancora due volte su "*Inst
 
 Seguire le istruzioni a schermo.
 
-### Alternativa
+### Alternative
 
 #### Homebrew
 
