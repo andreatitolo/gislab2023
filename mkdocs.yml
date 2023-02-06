@@ -10,8 +10,10 @@ repo_url: https://github.com/andreatitolo/gislab2023
 
 theme:
     name: 'material'
+    favicon: assets/satellite.svg
     icon:
-      repo: fontawesome-/brands/github
+      repo: fontawesome/brands/github
+      logo: material/satellite-variant
     features:
     - navigation.tabs
     - navigation.sections
