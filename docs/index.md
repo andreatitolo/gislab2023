@@ -15,12 +15,14 @@ Nella  sezione `4. Aiuto tecnico` vengono riportate le istruzioni per installare
 A fine laboratorio vi verrà  chiesto di lavorare su un piccolo progetto a scelta tra tre, che verranno resi disponibili più avanti nella sezione `5. Progetti`.
 
 #### Requisiti minimi: 
-- un laptop
+
 
 ## Per iniziare
 
-- Leggere le [[Informazioni generali]]
-- [[Installare QGIS]]
-- [[Installare Google Earth]]
+1. Requisiti minimi:
+	- Un laptop
+2. Leggere le [[Informazioni generali]]
+3. [[Installare QGIS]]
+4. [[Installare Google Earth]]
 
 
