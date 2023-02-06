@@ -78,10 +78,10 @@ plugins:
 extra: 
   alternate:
     - name: Italiano
-      link: /gislab2023/it/
+      link: /gislab2023/docs/it/
       lang: it
     - name: English
-      link: /gislab2023/eng/
+      link: /gislab2023/docs/eng/
       lang: en
 
 extra_javascript:
