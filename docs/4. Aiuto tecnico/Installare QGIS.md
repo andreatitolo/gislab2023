@@ -42,7 +42,9 @@ Andare in "impostazioni->Privacy e Sicurezza" e cercare la seguente opzione
 ![[qgisMacApri.png]]
 
 Cliccare quindi su "Apri comunque", verrà richiesta la password.
+
 Nella schermata successiva, cliccare su "Apri"
+
 ![[qgisMacApri2.png]]
 
 ## Linux

@@ -1,14 +1,36 @@
-site_name: obsidian-mkdocs template
+site_name: Il Paesaggio archeologico dell'Asia Occidentale Antica
+site_url: https://andreatitolo.github.io/gislab2023/
+site_author: Andrea Titolo
+site_description: >-
+  Sito del laboratorio studenti "Il Paesaggio archeologico dell'Asia Occidentale Antica"
+
+# Repository
+repo_name: andreatitolo/gislab2023
+repo_ulr: https://github.com/andreatitolo/gislab2023
 
 theme:
     name: 'material'
+    icon:
+      repo: fontawesome-/brands/github
+    features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.tracking
+    - toc.follow
+    - content.code.annotate
+    - content.tooltips
+    - search.suggest
+    - search.highlight
+    - search.share
+  
     palette:
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: pink
-      accent: indigo
+      primary: teal
+      accent: green
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
@@ -16,7 +38,7 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: pink
+      primary: indigo
       accent: blue
       toggle:
         icon: material/toggle-switch
@@ -28,6 +50,7 @@ markdown_extensions:
   # - attr_list
   - pymdownx.arithmatex:
       generic: true
+  - admonition  
   # - pymdownx.superfences
   # - pymdownx.details
   # - pymdownx.magiclink
