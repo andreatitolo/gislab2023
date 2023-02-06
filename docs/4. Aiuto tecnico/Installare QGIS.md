@@ -1,13 +1,13 @@
 ## Windows
 
-Andare alla pagina https://qgis.org/en/site/forusers/download.html#windows
+Andare alla pagina di [download di QGIS](https://qgis.org/en/site/forusers/download.html#windows)
 Cliccare su "*Looking for the most stable version? Get QGIS 3.22 LTR*"
 
 ## macOS
 
-**N.B.** Alcuni passaggi potrebbero variare a seconda della versione di macOS disponibile. Se il programma non viene avviato o se viene segnalata un'incompatibilità con la versione di macOS installata, scaricare una versione precedente da questo link: https://www.kyngchaos.com/software/archive/qgis/
+**N.B.** Alcuni passaggi potrebbero variare a seconda della versione di macOS disponibile. Se il programma non viene avviato o se viene segnalata un'incompatibilità con la versione di macOS installata, scaricare una versione precedente da questo [link](https://www.kyngchaos.com/software/archive/qgis/)
 
-Andare alla pagina https://www.qgis.org/it/site/forusers/download.html
+Andare alla pagina di [download di QGIS](https://qgis.org/en/site/forusers/download.html#windows)
 Cliccare su "*Looking for the most stable version? Get QGIS 3.22 LTR*"
 
 ![[qgisWeb.png]]
@@ -33,6 +33,6 @@ Nella schermata successiva, cliccare su "Apri"
 
 ## Linux
 
-Andare alla pagina https://qgis.org/en/site/forusers/download.html#linux
+Andare alla pagina [download di QGIS](https://qgis.org/en/site/forusers/download.html#windows)
 Scegliere la propria distribuzione dalla lista e seguire le istruzioni riportate.
 

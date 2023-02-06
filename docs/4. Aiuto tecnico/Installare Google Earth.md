@@ -2,7 +2,7 @@
 
 ## macOS
 
-Andare alla pagina https://www.google.com/intl/it/earth/versions/#earth-pro
+Andare sul sito di [Google Earth Pro ](https://www.google.com/intl/it/earth/versions/#earth-pro)
 
 Cliccare su "Scarica Google Earth Pro su Desktop".
 
