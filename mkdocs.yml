@@ -81,7 +81,7 @@ extra:
       link: /it/
       lang: it
     - name: English
-      link: /en/
+      link: /eng/
       lang: en
 
 extra_javascript:
