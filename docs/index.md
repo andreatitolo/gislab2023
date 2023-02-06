@@ -1,17 +1,26 @@
 # Il Paesaggio archeologico dell'Asia Occidentale Antica
 
-Publish your public notes with MkDocs
+Questo sito raccoglie tutte le informazioni e dati relativi al laboratorio. 
 
 ## Struttura del sito
 
-Tutte le informazioni sul laboratorio sono riportate in `1.Lab Info` 
+Tutte le informazioni sul laboratorio sono riportate in `1.Lab Info`.
 
 Le slides appariranno a fine di ogni lezione in `2. Slides`
 
+Nella sezione `3. Dizionario` verranno inserite delle brevi definizioni di termini che verranno affrontati durante il laboratorio
+
+Nella  sezione `4. Aiuto tecnico` vengono riportate le istruzioni per installare i programmi che useremo.
+
+A fine laboratorio vi verrà  chiesto di lavorare su un piccolo progetto a scelta tra tre, che verranno resi disponibili più avanti nella sezione `5. Progetti`.
+
+#### Requisiti minimi: 
+- un laptop
+
 ## Per iniziare
 
-- Installare QGIS
-- Installare Google Earth
+- Leggere le [[Informazioni generali]]
+- [[Installare QGIS]]
+- [[Installare Google Earth]]
 
-Requisiti minimi: 
-- un laptop
+
