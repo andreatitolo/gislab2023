@@ -14,9 +14,6 @@ Nella  sezione `4. Aiuto tecnico` vengono riportate le istruzioni per installare
 
 A fine laboratorio vi verrà  chiesto di lavorare su un piccolo progetto a scelta tra tre, che verranno resi disponibili più avanti nella sezione `5. Progetti`.
 
-#### Requisiti minimi: 
-
-
 ## Per iniziare
 
 1. Requisiti minimi:
