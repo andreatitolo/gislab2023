@@ -14,7 +14,8 @@ N.B. la struttura potrebbe cambiare, specialmente la sezione pratica di Google E
 
 ## Aula
 
-Aula T Seminari e Tesi
+Aula T Seminari e Tesi,  
+Ex Vetrerie Sciarra, Via dei Volsci 122, 00185 Roma
 
 <iframe width="425" height="350" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/en/map/untitled-map_867215?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=null&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/en/map/untitled-map_867215">See full screen</a></p>
 
