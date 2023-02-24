@@ -24,6 +24,11 @@ Ex Vetrerie Sciarra, Via dei Volsci 122, 00185 Roma
 - Mercoledì: 15-17
 - Giovedì: 9-11
 
+## Inizio e Fine
+
+- 15 Marzo
+- Fine Maggio
+
 ## Modalità 
 
 Il laboratorio avrà una parte introduttiva sotto forma di lezioni frontali relativa alla storia dell'archeologia del paesaggio e delle sue metodologie. A seguire, gran parte degli incontri seguirà una struttura mista, con una parte introduttiva all'inizio e una parte pratica in cui vedremo e lavoreremo insieme sugli aspetti introdotti ad inizio incontro. In questi ultimi incontri, l'aspetto pratico sarà prevalente, ovviamente a seconda dell'argomento trattato. Tutti i passaggi che eseguiremo insieme durante gli incontri pratici verranno comunque condivisi nelle slide nella sezione `2. Slides`.
