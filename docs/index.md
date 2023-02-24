@@ -17,7 +17,7 @@ A fine laboratorio vi verrà  chiesto di lavorare su un piccolo progetto a scelt
 ## Per iniziare
 
 1. Requisiti minimi:
-	- Un laptop
+	- Un laptop (**non** è richiesta nessuna conoscenza pregressa di GIS o particolari capacità tecniche)
 2. Leggere le [[Informazioni generali]]
 3. [[Installare QGIS]]
 4. [[Installare Google Earth]]
