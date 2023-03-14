@@ -12,6 +12,8 @@ Nella sezione `3. Dizionario` verranno inserite delle brevi definizioni di termi
 
 Nella  sezione `4. Aiuto tecnico` vengono riportate le istruzioni per installare i programmi che useremo.
 
+Nella  sezione `5. Bibliografia` verrà inserita la bibliografia per lezione.
+
 A fine laboratorio vi verrà  chiesto di lavorare su un piccolo progetto a scelta tra tre, che verranno resi disponibili più avanti nella sezione `6. Progetti`.
 
 ## Per iniziare

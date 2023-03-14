@@ -27,7 +27,7 @@ Ex Vetrerie Sciarra, Via dei Volsci 122, 00185 Roma
 ## Inizio e Fine
 
 - 15 Marzo
-- Fine Maggio
+- Fine Maggio-Inizio Giugno
 
 ## Modalità 
 
