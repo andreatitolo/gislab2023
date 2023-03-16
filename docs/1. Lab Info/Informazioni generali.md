@@ -22,7 +22,7 @@ Ex Vetrerie Sciarra, Via dei Volsci 122, 00185 Roma
 ## Orari
 
 - Mercoledì: 15-17
-- Giovedì: 9-11
+- Venerdì: 11-13 (Studio 121 - Ex Vetrerie Sciarra)
 
 ## Inizio e Fine
 
