@@ -5,4 +5,4 @@ Per maggiori informazioni, controllare il [repository](https://codeberg.org/tito
 
 -  [17-03-2023](https://www.andreatitolo.com/slides/gislab/2.introlandscapearchaeowestasia#/title-slide)
 
--  [22-03-2023](https://www.andreatitolo.com/slides/gislab/3.GoogleEarth.html)
+-  [22-03-2023](https://www.andreatitolo.com/slides/gislab/3.GoogleEarth.html) | [Dati](https://codeberg.org/titoloandrea/SapienzaStudentLab2023/raw/branch/main/dati/3_GE/3_GE.7z)
