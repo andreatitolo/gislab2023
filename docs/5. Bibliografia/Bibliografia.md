@@ -129,9 +129,15 @@ Cosgrove, D. and Daniels, S. (1988). _[The Iconography of Landscape: Essays on t
 
 ## Ricognizione archeologica
 
-Banning, E. B. (2002). _[Archaeological Survey](https://doi.org/10.1007/978-1-4615-0769-7)_, Springer US, New York.
+Agapiou, A., Lysandrou, V., Alexakis, D. D., Themistocleous, K., Cuca, B., Argyriou, A., Sarris, A. and Hadjimitsis, D. G. (2015). [Cultural heritage management and monitoring using remote sensing data and GIS: The case study of Paphos area, Cyprus](https://doi.org/10.1016/j.compenvurbsys.2015.09.003). _Computers, Environment and Urban Systems_ **54**: 230–239.
 
 Attema, P., Bintliff, J., Leusen, M. van, Bes, P., Haas, T. de, Donev, D., Jongman, W., Kaptijn, E., Mayoral, V., Menchelli, S., Pasquinucci, M., Rosen, S., Sánchez, J. G., Soler, L. G., Stone, D., Tol, G., Vermeulen, F. and Vionis, A. (2020). [A guide to good practice in Mediterranean surface survey projects](https://doi.org/10.32028/9781789697926-2). _Journal of Greek Archaeology_ **5**: 1–62.
+
+Banning, E. B. (2002). _[Archaeological Survey](https://doi.org/10.1007/978-1-4615-0769-7)_, Springer US, New York.
+
+Fábrega-Álvarez, P. and Lynch, J. (2022). [Archaeological Survey Supported by Mobile GIS: Low-Budget Strategies at the Hualfín Valley (Catamarca, Argentina)](https://doi.org/10.1017/aap.2022.2). _Advances in Archaeological Practice_ **10**: 215–226.
+
+Katsianis, M., Tsipidis, S., Kotsakis, K. and Kousoulakou, A. (2008). [A 3D digital workflow for archaeological intra-site research using GIS](https://doi.org/10.1016/j.jas.2007.06.002). _Journal of Archaeological Science_ **35**: 655–667.
 
 ### Differenze tra ricognizione nel mediterraneo e ricognizione in Asia Occidentale
 
@@ -191,6 +197,9 @@ Wilkinson, T. J. (2004). _On the Margins of the Euphrates: Settlement and Land U
 
 Palmisano, A. (2017). [Confronting Scales of Settlement Hierarchy in State-Level Societies: Upper Mesopotamia and Central Anatolia in the Middle Bronze Age](https://doi.org/10.1016/J.JASREP.2017.05.029). _Journal of Archaeological Science: Reports_ **14**: 220–240.
 
+## Cultural Heritage
+
+Bewley, R. I., Wilson, A., Kennedy, D. N., Mattingly, D. J., Banks, R., Bishop, M., Bradbury, J., Cunliffe, E., Fradley, M. G., Jennings, R., Mason, R., Rayne, L., Sterry, M., Sheldrick, N. and Zerbini, A. (2016). Endangered Archaeology in the Middle East and North Africa: Introducing the EAMENA Project. In S. Campana R. Scopigno G. Carpentiero and M. Cirillo (eds.), _CAA2015. Keep The Revolution Going: Proceedings of the 43rd Annual Conference on Computer Applications and Quantitative Methods in Archaeology_, Oxford, pp.919–932.
 
 ### Remote Sensing
 
@@ -214,8 +223,23 @@ Hammer, E., FitzPatrick, M. and Ur, J. (2022). [Succeeding CORONA: Declassified 
 
 Hammer, E. and Ur, J. A. (2019). Near Eastern Landscapes and Declassified U2 Aerial Imagery. _Advances in Archaeological Practice_ **7**: 107–126.
 
+#### Google Earth
+
+Kempe, S. and Al-Malabeh, A. (2013). [Desert kites in Jordan and Saudi Arabia: Structure, statistics and function, a Google Earth study](https://doi.org/10.1016/j.quaint.2013.02.013). _Quaternary International_ **297**: 126–146.
+
+Luo, L., Wang, X., Guo, H., Lasaponara, R., Shi, P., Bachagha, N., Li, L., Yao, Y., Masini, N., Chen, F., Ji, W., Cao, H., Li, C. and Hu, N. (2018). [Google Earth as a Powerful Tool for Archaeological and Cultural Heritage Applications: A review](https://doi.org/10.3390/rs10101558). _Remote Sensing_ **10**: 1–33.
+
+Parcak, S. (2015). [Archaeological Looting in Egypt: A Geospatial View (Case Studies from Saqqara, Lisht, and El Hibeh)](https://doi.org/10.5615/neareastarch.78.3.0196). _Near Eastern Archaeology_ **78**: 196–203.
+
+Smith, S. L. and Chambrade, M.-L. (2018). [The Application of Freely-Available Satellite Imagery for Informing and Complementing Archaeological Fieldwork in the “Black Desert” of North-Eastern Jordan](https://doi.org/10.3390/geosciences8120491). _Geosciences_ **8**:
+
+## Pubblicazioni su dati archeologici
+
+Pedersén, O. (2012). Ancient Near East on Google Earth: Problems, Preliminary Results, and Prospects. In R. Matthews and J. Curtis (eds.), _Proceedings of the 7th International Congress on the Archaeology of the Ancient Near East: 12 April - 16 April 2010, the British Museum and UCL, London. 3, Fieldworks and Recent Research_, Harrassowitz, Wiesbaden.
 
 ## Risorse Web
+
+### Teoria archaeologica
 
 Banning, T. (2022a). [Archaeological Survey I - Introduction](https://www.youtube.com/watch?v=s5HZQYWnidc).
 
@@ -230,6 +254,48 @@ Banning, T. (2022e). [The Archaeology of Place](https://www.youtube.com/watch?v=
 Smith, M. E. (2014). [Publishing Archaeology: Why do I dislike archaeological theory?](https://publishingarchaeology.blogspot.com/2014/04/why-do-i-dislike-archaeological-theory.html)
 
 Hirst, K. (2019). [Landscape Archaeology](https://www.thoughtco.com/what-is-landscape-archaeology-171551). _ThoughtCo_.
+
+### Best Practices Nomenclatura
+
+[Naming things by Jenny Bryan](https://speakerdeck.com/jennybc/how-to-name-files)
+
+[13 Rules for file naming conventions - Univ. of Edinburgh](https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions)
+
+### **QGIS**
+
+[QGIS sito principale](https://qgis.org/it/site/)
+
+[Manuale Utente di QGIS](https://docs.qgis.org/latest/it/docs/user_manual/index.html) (utile per approfondimenti e riferimenti):  
+
+[Documentazione di QGIS](https://docs.qgis.org/latest/it/docs/index.html)  
+
+[Manuale degli esercizi QGIS](https://docs.qgis.org/latest/it/docs/training_manual/index.html)s
+
+[Risorse disponibili per l’apprendimento di QGIS](https://www.qgistutorials.com/it/docs/learning_resources.html)
+
+[QGIS esercitazioni e suggerimenti](https://www.qgistutorials.com/it/#)
+
+[Serie di video QGIS per archeologi - AnthroYeti (in inglese)](https://www.youtube.com/playlist?list=PLqiB3IIUNAnU8vPcuea6A9pB7Y_qQBH1u)
+
+[Esempi di mappe create con QGIS e altri strumenti](https://www.flickr.com/groups/qgis/pool/)
+
+### Open source e free software
+
+[GNU Foundation - Definizione di Software Libero](https://www.gnu.org/philosophy/free-sw.it.html)
+
+[Differenze tra open source e software libero](http://amministrazionelibera.org/?page_id=2898&i=1)
+
+[Definizione di Open Source](https://opensource.org/osd/)
+
+[Cos’è l’open source](https://opensource.com/resources/what-open-source)
+
+[Differenze tra software Open Source e Software Commerciale](https://www.geeksforgeeks.org/difference-between-open-source-software-and-commercial-software/)
+
+## Dati Archeologici
+
+[Ancient World Mapping Center](http://awmc.unc.edu/wordpress/map-files/)
+
+[Natural Earth Data](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/)
 
 ## Podcast
 
