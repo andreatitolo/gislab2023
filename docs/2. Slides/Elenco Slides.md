@@ -9,4 +9,4 @@ Per maggiori informazioni, controllare il [repository](https://codeberg.org/tito
 
 -  [24-03-2023](https://www.andreatitolo.com/slides/gislab/4.IntroQGIS.html) | [Dati](https://codeberg.org/titoloandrea/SapienzaStudentLab2023/raw/branch/main/dati/4_intro_qgis.zip) | [Registrazione](https://kdrive.infomaniak.com/app/share/408009/f8a0b482-4c30-4a6d-a6cb-19ec429911ff)
 
--  [28-03-2023](https://www.andreatitolo.com/slides/gislab/5.IntroQGISMap.html) | [Dati](https://codeberg.org/titoloandrea/SapienzaStudentLab2023/raw/branch/main/dati/5_qgis_map_crs.zip)
+-  [28-03-2023](https://www.andreatitolo.com/slides/gislab/5.IntroQGISMap.html) | [Dati](https://codeberg.org/titoloandrea/SapienzaStudentLab2023/raw/branch/main/dati/5_qgis_map_crs.zip) | [Registrazione](https://kdrive.infomaniak.com/app/share/408009/cfbcc1d6-aa2c-4f92-af89-216d698b53f3)
