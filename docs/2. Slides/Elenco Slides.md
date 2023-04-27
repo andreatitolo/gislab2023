@@ -13,4 +13,4 @@ Per maggiori informazioni, controllare il [repository](https://codeberg.org/tito
 
 -  [31-03-2023](https://www.andreatitolo.com/slides/gislab/6.QGISRasterData.html) | [Dati](https://codeberg.org/titoloandrea/SapienzaStudentLab2023/raw/branch/main/dati/progetto_qgis_asia_occidentale.zip) | [Registrazione](https://kdrive.infomaniak.com/app/share/408009/1d9c8d9e-f012-4a21-8636-0d767ec067a6)
 
--  [26-04-2023](https://www.andreatitolo.com/slides/gislab/7.QGISRasterData2.html)
+-  [26-04-2023](https://www.andreatitolo.com/slides/gislab/7.QGISRasterData2.html) | [Registrazione](https://kdrive.infomaniak.com/app/share/408009/052fc587-8d8a-456b-9a64-a24762390ed1)
