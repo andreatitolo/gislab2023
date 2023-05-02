@@ -279,6 +279,17 @@ Hirst, K. (2019). [Landscape Archaeology](https://www.thoughtco.com/what-is-land
 
 [Esempi di mappe create con QGIS e altri strumenti](https://www.flickr.com/groups/qgis/pool/)
 
+[Documentazione utente di QGIS sullo strumento Creare Raster Virtuale](https://docs.qgis.org/latest/en/docs/user_manual/processing_algs/gdal/rastermiscellaneous.html#build-virtual-raster)
+
+[QGIS Manuale degli esercizi - Creare Raster Virtuale](https://docs.qgis.org/3.4/en/docs/training_manual/rasters/data_manipulation.html#basic-fa-create-a-virtual-raster)
+
+### Lavorare con i dati satellitari in QGIS
+
+[Working with Sentinel 2 Imagery on QGIS](https://hatarilabs.com/ih-en/working-with-sentinel-2-imagery-on-qgis) Interfaccia qgis un po' datata, ma i principi sono gli stessi
+
+[How to Make a False-Color Satellite Image in QGIS](https://opensourceoptions.com/blog/how-to-make-a-false-color-satellite-image-in-qgis/)
+
+
 ### Open source e free software
 
 [GNU Foundation - Definizione di Software Libero](https://www.gnu.org/philosophy/free-sw.it.html)
@@ -296,6 +307,21 @@ Hirst, K. (2019). [Landscape Archaeology](https://www.thoughtco.com/what-is-land
 [Ancient World Mapping Center](http://awmc.unc.edu/wordpress/map-files/)
 
 [Natural Earth Data](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/)
+
+[ANE Placemarks for the Near East](https://www.lingfil.uu.se/research/assyriology/earth/) | [Pubblicazione](https://www.academia.edu/24260603/Ancient_Near_East_on_Google_Earth_Problems_Preliminary_results_and_Prospects)
+
+## Dati Satellitari
+
+[USGS Earth Explorer](https://earthexplorer.usgs.gov/)
+
+[Copernicus OpenHub](https://scihub.copernicus.eu/)
+
+### Risorse online utili per lavorare sui dati satellitari
+
+[Blog GISGeography Band Combinations Landsat 8](https://gisgeography.com/landsat-8-bands-combinations/)
+
+[Blog GISGeography Band Combinations Sentinel-2](https://gisgeography.com/sentinel-2-bands-combinations/)
+
 
 ## Podcast
 
