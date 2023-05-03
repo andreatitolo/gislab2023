@@ -15,4 +15,4 @@ Per maggiori informazioni, controllare il [repository](https://codeberg.org/tito
 
 -  [26-04-2023](https://www.andreatitolo.com/slides/gislab/7.QGISRasterData2.html) | [Registrazione](https://kdrive.infomaniak.com/app/share/408009/052fc587-8d8a-456b-9a64-a24762390ed1)
 
--  [03-05-2023](https://www.andreatitolo.com/slides/gislab/8.QGISRasterData3.html) | [Dati](https://kdrive.infomaniak.com/app/share/408009/f2ca5de1-f134-4caa-be18-cd22d59584e2) |
+-  [03-05-2023](https://www.andreatitolo.com/slides/gislab/8.QGISRasterData3.html) | [Dati](https://kdrive.infomaniak.com/app/share/408009/f2ca5de1-f134-4caa-be18-cd22d59584e2) | [Registrazione](https://kdrive.infomaniak.com/app/share/408009/31d0accd-dff9-47db-be03-0a1ffff9e301)
