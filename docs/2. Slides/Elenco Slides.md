@@ -17,4 +17,6 @@ Per maggiori informazioni, controllare il [repository](https://codeberg.org/tito
 
 -  [03-05-2023](https://www.andreatitolo.com/slides/gislab/8.QGISRasterData3.html) | [Dati](https://kdrive.infomaniak.com/app/share/408009/f2ca5de1-f134-4caa-be18-cd22d59584e2) | [Registrazione](https://kdrive.infomaniak.com/app/share/408009/31d0accd-dff9-47db-be03-0a1ffff9e301)
 
--  [05-05-2023](https://www.andreatitolo.com/slides/gislab/9.QGISVectorsOperations.html) | [Registrazione]()
+-  [05-05-2023](https://www.andreatitolo.com/slides/gislab/9.QGISVectorsOperations.html) | [Registrazione](https://kdrive.infomaniak.com/app/share/408009/4b49ca1b-ae74-4086-89f0-af773fb2041e)
+
+- [05-05-2023](https://www.andreatitolo.com/slides/gislab/10.QGISVectorsOperations2.html) | [Registrazione]()
