@@ -21,4 +21,4 @@ Per maggiori informazioni, controllare il [repository](https://codeberg.org/tito
 
 -  [10-05-2023](https://www.andreatitolo.com/slides/gislab/10.QGISVectorsOperations2.html) | [Registrazione](https://kdrive.infomaniak.com/app/share/408009/73d1ab08-e504-4c0a-b590-c950a1526b64)
 
--  [11-05-2023](https://www.andreatitolo.com/slides/gislab/11.QGISGeoreferireMappa.html) | [Dati](https://kdrive.infomaniak.com/app/share/408009/12be458f-f29d-4e0c-b76b-8f17775634de) | [Registrazione]()
+-  [12-05-2023](https://www.andreatitolo.com/slides/gislab/11.QGISGeoreferireMappa.html) | [Dati](https://kdrive.infomaniak.com/app/share/408009/12be458f-f29d-4e0c-b76b-8f17775634de) | [Registrazione](https://kdrive.infomaniak.com/app/share/408009/7673d6f9-26f7-4b7a-9574-bef045a45c0b)
