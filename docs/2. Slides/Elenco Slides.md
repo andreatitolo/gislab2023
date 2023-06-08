@@ -25,6 +25,6 @@ Per maggiori informazioni, controllare il [repository](https://codeberg.org/tito
 
 -  [31-05-2023](https://www.andreatitolo.com/slides/gislab/12.QGISRecupero.html) | [Registrazione](https://kdrive.infomaniak.com/app/share/408009/267afb29-1933-4258-bb13-1f7179fd3c5b)
 
--  [07-06-2023](https://www.andreatitolo.com/slides/gislab/13.QGISDigitalizzazione.html) | [Dati](https://kdrive.infomaniak.com/app/share/408009/3be1a466-c307-4708-9942-0c06fe3cdfd9) | [Registrazione]()
+-  [07-06-2023](https://www.andreatitolo.com/slides/gislab/13.QGISDigitalizzazione.html) | [Dati](https://kdrive.infomaniak.com/app/share/408009/3be1a466-c307-4708-9942-0c06fe3cdfd9) | [Registrazione](https://kdrive.infomaniak.com/app/share/408009/53574c19-a2ff-4a31-a8a5-2a2e0ecb8c9e)
 
 -  [09-06-2023](https://www.andreatitolo.com/slides/gislab/14.QGISAvanzato.html) | [Dati](https://kdrive.infomaniak.com/app/share/408009/036fe33e-2939-4448-9df0-df859c3fca52) | [Registrazione]()
