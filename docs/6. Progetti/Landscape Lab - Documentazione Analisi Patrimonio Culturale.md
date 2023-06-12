@@ -12,7 +12,7 @@ Una volta connessi al geopackage, caricare i layer "siti_archeo", "fiumi", e "la
 > [!Hint] Suggerimento
 > Per connettersi ad un database geopackage, andare sul pannello Browser, cliccare con il tasto destro su Geopackage e selezionare "Nuova Connessione".
 
-![[null]]
+![[CleanShot 2022-05-25 at 14.02.53.png]]
 
 Caricare una mappa di base per poter visualizzare il territorio. Utilizzare il plugin QuickMapService (Web -> QuickMapServices) per caricare una mappa a scelta tra **Google Satellite** e **Bing Satellite**.
 
