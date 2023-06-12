@@ -6,6 +6,6 @@ Non c'è una scadenza per l'invio del progetto, ma il consiglio è di completarl
 
 NB: è necessario completare il progetto ai fini dell'ottenimento dei CFU. 
 
-- [[Landscape Lab - Documentazione Analisi Diacronica]] - [Versione PDF]() | [Dati](https://kdrive.infomaniak.com/app/share/408009/fb6a4e99-d30d-4e76-ad1d-78b6d4c56c52)
-- [[Landscape Lab - Documentazione Analisi Paesaggio]] - [Versione PDF]() | [Dati](https://kdrive.infomaniak.com/app/share/408009/cd817c2b-178f-4c15-a736-ea9046b3f7b3)
-- [[Landscape Lab - Documentazione Analisi Patrimonio Culturale]] - [Versione PDF]() | [Dati](https://kdrive.infomaniak.com/app/share/408009/49395dcf-a149-44fc-9f12-1d0ebff11846)
+- [[Landscape Lab - Documentazione Analisi Diacronica]] | [Versione PDF]() | [Dati](https://kdrive.infomaniak.com/app/share/408009/fb6a4e99-d30d-4e76-ad1d-78b6d4c56c52)
+- [[Landscape Lab - Documentazione Analisi Paesaggio]] | [Versione PDF]() | [Dati](https://kdrive.infomaniak.com/app/share/408009/cd817c2b-178f-4c15-a736-ea9046b3f7b3)
+- [[Landscape Lab - Documentazione Analisi Patrimonio Culturale]] | [Versione PDF]() | [Dati](https://kdrive.infomaniak.com/app/share/408009/49395dcf-a149-44fc-9f12-1d0ebff11846)
