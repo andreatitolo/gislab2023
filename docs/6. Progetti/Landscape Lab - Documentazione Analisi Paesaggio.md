@@ -1,5 +1,10 @@
 # Esercitazione - analisi geoarcheologica del paesaggio
+
+Per scaricare questa guida in formato PDF cliccare su [questo link](https://kdrive.infomaniak.com/app/share/408009/17b2a006-4187-4215-b0db-806dace3dfa9).
+
 L’obiettivo di questo esercizio è di quantificare il numero di siti su unità geomorfologiche e produrre una mappa sulla quale saranno  rappresentati entrambi, utilizzando una mappa geomorfologica e digitalizzando i singoli elementi lì rappresentati. Questo documento elencherà i passaggi da eseguire in successione, fornendo suggerimenti dove necessario.
+
+Scaricare i dati a [questo link](https://kdrive.infomaniak.com/app/share/408009/cd817c2b-178f-4c15-a736-ea9046b3f7b3).
 
 Aprire il progetto vuoto "analisi paesaggio.qgz" e connettersi al geopackage "landscape" che si trova nella cartella "gpk" all'interno della cartella del progetto.
 Una volta connessi al geopackage, caricare il layer "sweyhat_sites".

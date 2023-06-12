@@ -1,6 +1,10 @@
 # Esercitazione - Analisi della sopravvivenza dei siti archeologici nel tempo
 
+Per scaricare questa guida in formato PDF cliccare su [questo link](https://kdrive.infomaniak.com/app/share/408009/f1ddaaef-a24a-4681-bdcb-5184f3f22f8b).
+
 L’obiettivo di questo esercizio è di registrare se un sito sia sopravvissuto o meno dagli anni '70 fino ad oggi, utilizzando immagini satellitari CORONA e una mappa di base moderna. Questo documento elencherà i passaggi da eseguire in successione, fornendo suggerimenti dove necessario.
+
+Scaricare i dati a [questo link](https://kdrive.infomaniak.com/app/share/408009/49395dcf-a149-44fc-9f12-1d0ebff11846).
 
 Aprire il progetto vuoto "patrimonio_culturale.qgz" e connettersi al geopackage "cultural_heritage" che si trova nella cartella "gpk" all'interno della cartella del progetto.
 Una volta connessi al geopackage, caricare i layer "siti_archeo", "fiumi", e "laghi".

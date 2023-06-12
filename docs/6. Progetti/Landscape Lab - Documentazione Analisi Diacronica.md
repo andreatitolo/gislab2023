@@ -1,6 +1,10 @@
 # Esercitazione - Analisi Diacronica della posizione dei siti archeologici sul territorio
 
+Per scaricare questa guida in formato PDF cliccare su [questo link](https://kdrive.infomaniak.com/app/share/408009/3fba9021-7e8e-4b3a-baf8-4064be75600d).
+
 L’obiettivo di questo esercizio è di mappare la disposizione dei siti sul territorio durante diversi periodi storici, utilizzando una simbologia tramite regole del layer. Questo documento elencherà i passaggi da eseguire in successione, fornendo suggerimenti dove necessario.
+
+Scaricare i dati a [questo link](https://kdrive.infomaniak.com/app/share/408009/fb6a4e99-d30d-4e76-ad1d-78b6d4c56c52)_.
 
 Aprire il progetto vuoto "analisi_diacronica.qgz" e caricare lo shapefile siti_archeo, contenuto nella cartella shp all'interno della cartella del progetto.
 
