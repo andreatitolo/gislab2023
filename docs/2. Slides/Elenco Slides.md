@@ -29,4 +29,4 @@ Per maggiori informazioni, controllare il [repository](https://codeberg.org/tito
 
 -  [09-06-2023](https://www.andreatitolo.com/slides/gislab/14.QGISAvanzato.html) | [Dati](https://kdrive.infomaniak.com/app/share/408009/036fe33e-2939-4448-9df0-df859c3fca52) | [Registrazione](https://kdrive.infomaniak.com/app/share/408009/a26db041-830a-432b-a4c3-6eaed3046d2c)
 
--  [14-06-2023](https://www.andreatitolo.com/slides/gislab/15.QGISAvanzato2.html) | [Registrazione]()
+-  [14-06-2023](https://www.andreatitolo.com/slides/gislab/15.QGISAvanzato2.html) | [Registrazione](https://kdrive.infomaniak.com/app/share/408009/758df4e1-e0ed-42d0-aa22-b942b319359a)
