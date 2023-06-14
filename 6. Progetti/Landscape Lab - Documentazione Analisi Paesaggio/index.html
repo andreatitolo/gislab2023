@@ -1,0 +1,553 @@
+
+<!DOCTYPE html>
+
+<html class="no-js" lang="it">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<meta content="Sito del laboratorio studenti 'Il Paesaggio archeologico dell'Asia Occidentale Antica'" name="description"/>
+<meta content="Andrea Titolo" name="author"/>
+<link href="https://andreatitolo.github.io/gislab2023/6.%20Progetti/Landscape%20Lab%20-%20Documentazione%20Analisi%20Paesaggio/" rel="canonical"/>
+<link href="../Landscape%20Lab%20-%20Documentazione%20Analisi%20Diacronica/" rel="prev"/>
+<link href="../Landscape%20Lab%20-%20Documentazione%20Analisi%20Patrimonio%20Culturale/" rel="next"/>
+<link href="../../Assets/satellite-variant.svg" rel="icon"/>
+<meta content="mkdocs-1.4.3, mkdocs-material-9.1.15" name="generator"/>
+<title>Esercitazione - analisi geoarcheologica del paesaggio - Il Paesaggio archeologico dell'Asia Occidentale Antica</title>
+<link href="../../assets/stylesheets/main.26e3688c.min.css" rel="stylesheet"/>
+<link href="../../assets/stylesheets/palette.ecc896b0.min.css" rel="stylesheet"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&amp;display=fallback" rel="stylesheet"/>
+<style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+<script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+</head>
+<body data-md-color-accent="blue" data-md-color-primary="indigo" data-md-color-scheme="default" dir="ltr">
+<script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+<input autocomplete="off" class="md-toggle" data-md-toggle="drawer" id="__drawer" type="checkbox"/>
+<input autocomplete="off" class="md-toggle" data-md-toggle="search" id="__search" type="checkbox"/>
+<label class="md-overlay" for="__drawer"></label>
+<div data-md-component="skip">
+<a class="md-skip" href="#esercitazione-analisi-geoarcheologica-del-paesaggio">
+          Vai al contenuto
+        </a>
+</div>
+<div data-md-component="announce">
+</div>
+<header class="md-header" data-md-component="header">
+<nav aria-label="Intestazione" class="md-header__inner md-grid">
+<a aria-label="Il Paesaggio archeologico dell'Asia Occidentale Antica" class="md-header__button md-logo" data-md-component="logo" href="../.." title="Il Paesaggio archeologico dell'Asia Occidentale Antica">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m11.62 1 5.66 5.67-2.12 2.12-2.12-2.12-1.42 1.42 2.33 2.32-1.16 1.17.45.46a2.5 2.5 0 0 1 2.83.5l-3.53 3.53a2.5 2.5 0 0 1-.5-2.83l-.46-.45-1.17 1.16-2.32-2.33-1.42 1.42 2.12 2.12-2.12 2.12L1 11.62 3.14 9.5l2.12 2.12 1.41-1.41-2.83-2.83c-.78-.78-.78-2.05 0-2.83l.71-.71c.78-.78 2.05-.78 2.83 0l2.83 2.83 1.41-1.41L9.5 3.14 11.62 1M18 14a4 4 0 0 1-4 4v-2a2 2 0 0 0 2-2h2m4 0a8 8 0 0 1-8 8v-2a6 6 0 0 0 6-6h2Z"></path></svg>
+</a>
+<label class="md-header__button md-icon" for="__drawer">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"></path></svg>
+</label>
+<div class="md-header__title" data-md-component="header-title">
+<div class="md-header__ellipsis">
+<div class="md-header__topic">
+<span class="md-ellipsis">
+            Il Paesaggio archeologico dell'Asia Occidentale Antica
+          </span>
+</div>
+<div class="md-header__topic" data-md-component="header-topic">
+<span class="md-ellipsis">
+            
+              Esercitazione - analisi geoarcheologica del paesaggio
+            
+          </span>
+</div>
+</div>
+</div>
+<form class="md-header__option" data-md-component="palette">
+<input aria-label="Switch to dark mode" class="md-option" data-md-color-accent="blue" data-md-color-media="(prefers-color-scheme: light)" data-md-color-primary="indigo" data-md-color-scheme="default" id="__palette_1" name="__palette" type="radio"/>
+<label class="md-header__button md-icon" for="__palette_2" hidden="" title="Switch to dark mode">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6zm0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4zM7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"></path></svg>
+</label>
+<input aria-label="Switch to light mode" class="md-option" data-md-color-accent="blue" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-primary="indigo" data-md-color-scheme="slate" id="__palette_2" name="__palette" type="radio"/>
+<label class="md-header__button md-icon" for="__palette_1" hidden="" title="Switch to light mode">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3Z"></path></svg>
+</label>
+</form>
+<label class="md-header__button md-icon" for="__search">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"></path></svg>
+</label>
+<div class="md-search" data-md-component="search" role="dialog">
+<label class="md-search__overlay" for="__search"></label>
+<div class="md-search__inner" role="search">
+<form class="md-search__form" name="search">
+<input aria-label="Cerca" autocapitalize="off" autocomplete="off" autocorrect="off" class="md-search__input" data-md-component="search-query" name="query" placeholder="Cerca" required="" spellcheck="false" type="text"/>
+<label class="md-search__icon md-icon" for="__search">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"></path></svg>
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"></path></svg>
+</label>
+<nav aria-label="Cerca" class="md-search__options">
+<a aria-label="Condividi" class="md-search__icon md-icon" data-clipboard="" data-clipboard-text="" data-md-component="search-share" href="javascript:void(0)" tabindex="-1" title="Condividi">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7 0-.24-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91 1.61 0 2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08Z"></path></svg>
+</a>
+<button aria-label="Cancella" class="md-search__icon md-icon" tabindex="-1" title="Cancella" type="reset">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"></path></svg>
+</button>
+</nav>
+<div class="md-search__suggest" data-md-component="search-suggest"></div>
+</form>
+<div class="md-search__output">
+<div class="md-search__scrollwrap" data-md-scrollfix="">
+<div class="md-search-result" data-md-component="search-result">
+<div class="md-search-result__meta">
+            Inizializza la ricerca
+          </div>
+<ol class="md-search-result__list" role="presentation"></ol>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="md-header__source">
+<a class="md-source" data-md-component="source" href="https://github.com/andreatitolo/gislab2023" title="Apri repository">
+<div class="md-source__icon md-icon">
+<svg viewbox="0 0 496 512" xmlns="http://www.w3.org/2000/svg"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"></path></svg>
+</div>
+<div class="md-source__repository">
+    andreatitolo/gislab2023
+  </div>
+</a>
+</div>
+</nav>
+</header>
+<div class="md-container" data-md-component="container">
+<nav aria-label="Tabs" class="md-tabs" data-md-component="tabs">
+<div class="md-grid">
+<ul class="md-tabs__list">
+<li class="md-tabs__item">
+<a class="md-tabs__link" href="../..">
+      Il Paesaggio archeologico dell'Asia Occidentale Antica
+    </a>
+</li>
+<li class="md-tabs__item">
+<a class="md-tabs__link" href="../../1.%20Lab%20Info/Informazioni%20generali/">
+        1. Lab Info
+      </a>
+</li>
+<li class="md-tabs__item">
+<a class="md-tabs__link" href="../../2.%20Slides/Elenco%20Slides/">
+        2. Slides
+      </a>
+</li>
+<li class="md-tabs__item">
+<a class="md-tabs__link" href="../../3.%20Dizionario/Dizionario/">
+        3. Dizionario
+      </a>
+</li>
+<li class="md-tabs__item">
+<a class="md-tabs__link" href="../../4.%20Aiuto%20tecnico/Installare%20Google%20Earth/">
+        4. Aiuto tecnico
+      </a>
+</li>
+<li class="md-tabs__item">
+<a class="md-tabs__link" href="../../5.%20Bibliografia/Bibliografia/">
+        5. Bibliografia
+      </a>
+</li>
+<li class="md-tabs__item">
+<a class="md-tabs__link md-tabs__link--active" href="../Info%20Progetti/">
+        6. Progetti
+      </a>
+</li>
+</ul>
+</div>
+</nav>
+<main class="md-main" data-md-component="main">
+<div class="md-main__inner md-grid">
+<div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav aria-label="Navigazione" class="md-nav md-nav--primary md-nav--lifted" data-md-level="0">
+<label class="md-nav__title" for="__drawer">
+<a aria-label="Il Paesaggio archeologico dell'Asia Occidentale Antica" class="md-nav__button md-logo" data-md-component="logo" href="../.." title="Il Paesaggio archeologico dell'Asia Occidentale Antica">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m11.62 1 5.66 5.67-2.12 2.12-2.12-2.12-1.42 1.42 2.33 2.32-1.16 1.17.45.46a2.5 2.5 0 0 1 2.83.5l-3.53 3.53a2.5 2.5 0 0 1-.5-2.83l-.46-.45-1.17 1.16-2.32-2.33-1.42 1.42 2.12 2.12-2.12 2.12L1 11.62 3.14 9.5l2.12 2.12 1.41-1.41-2.83-2.83c-.78-.78-.78-2.05 0-2.83l.71-.71c.78-.78 2.05-.78 2.83 0l2.83 2.83 1.41-1.41L9.5 3.14 11.62 1M18 14a4 4 0 0 1-4 4v-2a2 2 0 0 0 2-2h2m4 0a8 8 0 0 1-8 8v-2a6 6 0 0 0 6-6h2Z"></path></svg>
+</a>
+    Il Paesaggio archeologico dell'Asia Occidentale Antica
+  </label>
+<div class="md-nav__source">
+<a class="md-source" data-md-component="source" href="https://github.com/andreatitolo/gislab2023" title="Apri repository">
+<div class="md-source__icon md-icon">
+<svg viewbox="0 0 496 512" xmlns="http://www.w3.org/2000/svg"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"></path></svg>
+</div>
+<div class="md-source__repository">
+    andreatitolo/gislab2023
+  </div>
+</a>
+</div>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../..">
+        Il Paesaggio archeologico dell'Asia Occidentale Antica
+      </a>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_2" type="checkbox"/>
+<label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+          1. Lab Info
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_2_label" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_2">
+<span class="md-nav__icon md-icon"></span>
+          1. Lab Info
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../1.%20Lab%20Info/Informazioni%20generali/">
+        Informazioni generali
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../1.%20Lab%20Info/Laboratorio%20-%20Struttura%20dettagliata/">
+        Laboratorio   Struttura dettagliata
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../1.%20Lab%20Info/Links/">
+        Links
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_3" type="checkbox"/>
+<label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+          2. Slides
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_3_label" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_3">
+<span class="md-nav__icon md-icon"></span>
+          2. Slides
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../2.%20Slides/Elenco%20Slides/">
+        Elenco Slides
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_4" type="checkbox"/>
+<label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+          3. Dizionario
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_4_label" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_4">
+<span class="md-nav__icon md-icon"></span>
+          3. Dizionario
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../3.%20Dizionario/Dizionario/">
+        Dizionario
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../3.%20Dizionario/Risorse/">
+        Risorse
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_5" type="checkbox"/>
+<label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+          4. Aiuto tecnico
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_5_label" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_5">
+<span class="md-nav__icon md-icon"></span>
+          4. Aiuto tecnico
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../4.%20Aiuto%20tecnico/Installare%20Google%20Earth/">
+        Installare Google Earth
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../4.%20Aiuto%20tecnico/Installare%20QGIS/">
+        Installare QGIS
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../4.%20Aiuto%20tecnico/Riprodurre%20questo%20sito/">
+        Riprodurre questo sito
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_6" type="checkbox"/>
+<label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+          5. Bibliografia
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_6_label" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_6">
+<span class="md-nav__icon md-icon"></span>
+          5. Bibliografia
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../5.%20Bibliografia/Bibliografia/">
+        Bibliografia
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--active md-nav__item--nested">
+<input checked="" class="md-nav__toggle md-toggle" id="__nav_7" type="checkbox"/>
+<label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+          6. Progetti
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="true" aria-labelledby="__nav_7_label" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_7">
+<span class="md-nav__icon md-icon"></span>
+          6. Progetti
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Info%20Progetti/">
+        Info Progetti
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Landscape%20Lab%20-%20Documentazione%20Analisi%20Diacronica/">
+        Esercitazione - Analisi Diacronica della posizione dei siti archeologici sul territorio
+      </a>
+</li>
+<li class="md-nav__item md-nav__item--active">
+<input class="md-nav__toggle md-toggle" id="__toc" type="checkbox"/>
+<label class="md-nav__link md-nav__link--active" for="__toc">
+          Esercitazione - analisi geoarcheologica del paesaggio
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<a class="md-nav__link md-nav__link--active" href="./">
+        Esercitazione - analisi geoarcheologica del paesaggio
+      </a>
+<nav aria-label="Indice" class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">
+<span class="md-nav__icon md-icon"></span>
+      Indice
+    </label>
+<ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#georeferire-la-mappa-geomorfologica">
+    Georeferire la mappa geomorfologica
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#digitalizzare-la-mappa-geomorfologica">
+    Digitalizzare la mappa geomorfologica
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#calcolare-il-numero-di-siti-su-unita-geomorfologica">
+    Calcolare il numero di siti su unità geomorfologica
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#creare-una-mappa">
+    Creare una mappa
+  </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Landscape%20Lab%20-%20Documentazione%20Analisi%20Patrimonio%20Culturale/">
+        Esercitazione - Analisi della sopravvivenza dei siti archeologici nel tempo
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav aria-label="Indice" class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">
+<span class="md-nav__icon md-icon"></span>
+      Indice
+    </label>
+<ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#georeferire-la-mappa-geomorfologica">
+    Georeferire la mappa geomorfologica
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#digitalizzare-la-mappa-geomorfologica">
+    Digitalizzare la mappa geomorfologica
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#calcolare-il-numero-di-siti-su-unita-geomorfologica">
+    Calcolare il numero di siti su unità geomorfologica
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#creare-una-mappa">
+    Creare una mappa
+  </a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-content" data-md-component="content">
+<article class="md-content__inner md-typeset">
+<h1 id="esercitazione-analisi-geoarcheologica-del-paesaggio">Esercitazione - analisi geoarcheologica del paesaggio<a class="headerlink" href="#esercitazione-analisi-geoarcheologica-del-paesaggio" title="Permanent link">¶</a></h1>
+<p>Per scaricare questa guida in formato PDF cliccare su <a href="https://kdrive.infomaniak.com/app/share/408009/17b2a006-4187-4215-b0db-806dace3dfa9">questo link</a>.</p>
+<p>L’obiettivo di questo esercizio è di quantificare il numero di siti su unità geomorfologiche e produrre una mappa sulla quale saranno  rappresentati entrambi, utilizzando una mappa geomorfologica e digitalizzando i singoli elementi lì rappresentati. Questo documento elencherà i passaggi da eseguire in successione, fornendo suggerimenti dove necessario.</p>
+<p>Scaricare i dati a <a href="https://kdrive.infomaniak.com/app/share/408009/cd817c2b-178f-4c15-a736-ea9046b3f7b3">questo link</a>.</p>
+<p>Aprire il progetto vuoto "analisi paesaggio.qgz" e connettersi al geopackage "landscape" che si trova nella cartella "gpk" all'interno della cartella del progetto.
+Una volta connessi al geopackage, caricare il layer "sweyhat_sites".</p>
+<blockquote>
+<p>[!Hint] Suggerimento
+Per connettersi ad un database geopackage, andare sul pannello Browser, cliccare con il tasto destro su Geopackage e selezionare "Nuova Connessione".</p>
+</blockquote>
+<p><img alt="CleanShot 2022-05-25 at 14.02.53.png" src="../../Assets/CleanShot%202022-05-25%20at%2014.02.53.png"/></p>
+<blockquote>
+<p>[!warning] Attenzione</p>
+<p>Assicurarsi che il layer e il progetto condividano lo stesso sistema di riferimento (<code>EPSG: 32637</code>), altrimenti alcune funzioni più avanti potrebbero non funzionare. Per verificarlo, controllare il valore epsg in basso a destra del progetto (<img alt="CleanShot 2022-05-25 at 15.40.24 1.png" src="../../Assets/CleanShot%202022-05-25%20at%2015.40.24%201.png"/>) e poi quello del layer spostando il mouse sul layer stesso e aspettando che appaia un pop-up informativo.</p>
+</blockquote>
+<p><img alt="CleanShot 2022-05-25 at 14.33.18 4.png" src="../../Assets/CleanShot%202022-05-25%20at%2014.33.18%204.png"/></p>
+<p><strong>Opzionale</strong> - Caricare una mappa di base per poter visualizzare meglio il territorio. Utilizzare il plugin QuickMapService (Web -&gt; QuickMapServices) per caricare una mappa a scelta.</p>
+<h2 id="georeferire-la-mappa-geomorfologica">Georeferire la mappa geomorfologica<a class="headerlink" href="#georeferire-la-mappa-geomorfologica" title="Permanent link">¶</a></h2>
+<p><strong>Obiettivo</strong>:  georeferire la mappa geomorfologica così da utilizzarla in GIS. </p>
+<p>Procedere alla georeferenziazione della mappa geomorfologica. Aprire il georeferenziatore raster (Menu Raster -&gt; Georeferenziatore), e caricare l'immagine <img alt="CleanShot 2022-05-25 at 15.33.32.png" src="../../Assets/CleanShot%202022-05-25%20at%2015.33.32.png"/>  contenuta nella cartella raster del progetto -&gt; "wilk_sweyhat.png". </p>
+<p>Caricare il file con i ground control points utili per georeferire l'immagine <img alt="CleanShot 2022-05-25 at 14.36.36.png" src="../../Assets/CleanShot%202022-05-25%20at%2014.36.36.png"/>.</p>
+<p>Nelle impostazioni <img alt="CleanShot 2022-05-25 at 14.35.16.png" src="../../Assets/CleanShot%202022-05-25%20at%2014.35.16.png"/> modificare il <strong>Tipo di trasformazione</strong> in <strong>Polinomiale 3</strong> e assicurarsi che l'<strong>SR di destinazione</strong> sia lo stesso di quello del progetto (32637). </p>
+<p><strong>Opzionale</strong> - aggiungere un altro paio di punti GCP (non necessario)</p>
+<blockquote>
+<p>[!Hint] Suggerimento
+È possibile utilizzare i siti archeologici come punti gcp, confrontando i nomi dei siti nel layer siti_archeo con i nomi segnati sulla mappa.</p>
+</blockquote>
+<p>Una volta selezionati eventuali nuovi GCP e impostato la trasformazione, è possibile lanciare la georeferenziazione  <img alt="CleanShot 2022-05-25 at 14.27.15.png" src="../../Assets/CleanShot%202022-05-25%20at%2014.27.15.png"/></p>
+<blockquote>
+<p>[!warning] Info
+È normale che l'immagine appaia molto distorta e quasi "ripiegata" ai lati dove non erano presenti GCP, questo è dovuto al tipo di trasformazione, necessaria per assicurarci che le parti della mappa che ci interessano si posizionino correttamente.</p>
+</blockquote>
+<p>Il risultato finale dovrebbe essere simile a questo:</p>
+<p><img alt="CleanShot 2022-05-25 at 14.39.59.png" src="../../Assets/CleanShot%202022-05-25%20at%2014.39.59.png"/></p>
+<h2 id="digitalizzare-la-mappa-geomorfologica">Digitalizzare la mappa geomorfologica<a class="headerlink" href="#digitalizzare-la-mappa-geomorfologica" title="Permanent link">¶</a></h2>
+<p><strong>Obiettivo</strong>: Creare poligoni per tutte le unità geomorfologiche rappresentate nella mappa.</p>
+<p>Caricare il layer poligonale "geomorf" dal geopackage "landscape". 
+Come visibile, molti degli elementi geomorfologici sono già digitalizzati, l'obiettivo è quello di completare la digitalizzazione delle rimanenti unità geomorfologiche, in particolare:</p>
+<ul>
+<li>Main alluvial floodplain (type b/c)</li>
+<li>Ancient floodplain residual (type d)</li>
+<li>Euphrates river terraces</li>
+<li>Gully-eroded terrain</li>
+<li>Tributary wadis and their deposits</li>
+</ul>
+<p><strong>Opzionale</strong> Per distinguere meglio i singoli elementi, nel pannello Stile Layer è possibile cambiare la simbologia in "Categorizzata", scegliendo come Valore "geomorf_type" e poi cliccando su Classifica.
+<img alt="CleanShot 2022-05-25 at 14.50.55.png" src="../../Assets/CleanShot%202022-05-25%20at%2014.50.55.png"/></p>
+<p>Il layer geomorf è strutturato in modo da permettere di scegliere da un menu a tendina il tipo di unità geomorfologiche una volta che si sarà conclusa la digitalizzazione di un poligono.</p>
+<blockquote>
+<p>[!tip] Suggerimento
+Per digitalizzare, ricordarsi di "accendere" le modifiche del layer <img alt="CleanShot 2022-05-25 at 14.41.29.png" src="../../Assets/CleanShot%202022-05-25%20at%2014.41.29.png"/> e di creare un nuovo poligono <img alt="CleanShot 2022-05-25 at 14.41.50.png" src="../../Assets/CleanShot%202022-05-25%20at%2014.41.50.png"/></p>
+</blockquote>
+<p>Per un miglior risultato e per evitare buchi o poligoni sovrapposti, attivare anche gli strumenti d'aggancio <img alt="CleanShot 2022-05-25 at 14.43.02.png" src="../../Assets/CleanShot%202022-05-25%20at%2014.43.02.png"/>. Attivare sia l'aggancio al vertice  che al segmento e muoversi a vari livelli di zoom per una migliore digitalizzazione.
+<img alt="CleanShot 2022-05-25 at 14.43.42 1.png" src="../../Assets/CleanShot%202022-05-25%20at%2014.43.42%201.png"/></p>
+<p>Per evitare di agganciarsi ai siti archeologici, attivare l'opzione di aggancio solo al layer attivo.
+<img alt="CleanShot 2022-05-25 at 14.44.31.png" src="../../Assets/CleanShot%202022-05-25%20at%2014.44.31.png"/></p>
+<p>Una volta completata la digitalizzazione, chiudere le modifiche del layer (sempre dall'icona a matita) e salvare il progetto <img alt="CleanShot 2022-05-25 at 14.47.13.png" src="../../Assets/CleanShot%202022-05-25%20at%2014.47.13.png"/>. 
+Caricare poi un nuovo stile da file, scegliendo il file stile_geomorfologia presente nella cartella del progetto. Salvare poi il layer come predefinito nel database della sorgente dati.</p>
+<blockquote>
+<p>[!tip] Suggerimento
+ Per caricare uno stile da file, aprire la finestra delle proprietà del layer e andare alla scheda "Simbologia", cliccare su Stile in basso -&gt; Carica stile e selezionare il file dal menu del campo File <img alt="CleanShot 2022-05-25 at 16.11.52 1.png" src="../../Assets/CleanShot%202022-05-25%20at%2016.11.52%201.png"/></p>
+</blockquote>
+<h2 id="calcolare-il-numero-di-siti-su-unita-geomorfologica">Calcolare il numero di siti su unità geomorfologica<a class="headerlink" href="#calcolare-il-numero-di-siti-su-unita-geomorfologica" title="Permanent link">¶</a></h2>
+<p><strong>Obiettivo</strong>:  calcolare il numero di siti che si trovano su ciascuna unità geomorfologica. </p>
+<p>Procedere a comprendere il numero di siti per unità geomorfologica.
+Utilizzare l'algoritmo "Conta i punti nel poligono" .
+<img alt="CleanShot 2022-05-25 at 14.52.53.png" src="../../Assets/CleanShot%202022-05-25%20at%2014.52.53.png"/></p>
+<p>Nel campo poligoni scegliere il layer geomorf e nel campo punti scegliere il layer sweyhat_sites, lasciare poi tutti gli altri valori di default e cliccare su "Esegui" per lanciare l'algoritmo.</p>
+<p>Il risultato verrà salvato in un layer temporaneo. Salvare quindi il layer "Numero" appena creato nel geopackage landscape con un nome a scelta.</p>
+<blockquote>
+<p>[!tip] Suggerimento
+ Quando si salva in un layer geopackage, ricordarsi di selezionare il tipo di file nel dialogo di esportazione e inserire il nome del nostro nuovo layer (qgis inserirà di default il nome del geopackage)</p>
+</blockquote>
+<p>Ricordarsi di salvare spesso il progetto. <img alt="CleanShot 2022-05-25 at 14.47.13.png" src="../../Assets/CleanShot%202022-05-25%20at%2014.47.13.png"/></p>
+<p><strong>Opzionale</strong>: esportare il risultato in un foglio excel (formato xlsx).</p>
+<h2 id="creare-una-mappa">Creare una mappa<a class="headerlink" href="#creare-una-mappa" title="Permanent link">¶</a></h2>
+<p><strong>Obiettivo</strong>:  creare una mappa con le unità geomorfologiche e i siti archeologici tramite il layout di stampa. </p>
+<p>La mappa dovrà contenere i seguenti elementi:
+- Mappa con i layer <strong><code>geomorf</code></strong> e <strong><code>sweyhat_sites</code></strong>
+    - Rimuovere eventuali altri layer come la mappa di base.
+- Barra di scala
+- Freccia del nord
+- Legenda</p>
+<p>Alcuni comandi utili da ricordare per la creazione della mappa sono:
+- Creare un nuovo layout di stampa  <img alt="CleanShot 2022-05-25 at 16.01.38.png" src="../../Assets/CleanShot%202022-05-25%20at%2016.01.38.png"/></p>
+<p>Nel layout di stampa:
+- Selezionare un oggetto <img alt="CleanShot 2022-05-25 at 19.33.06.png" src="../../Assets/CleanShot%202022-05-25%20at%2019.33.06.png"/>
+- Spostare il contenuto dell'oggetto <img alt="CleanShot 2022-05-25 at 19.33.46 1.png" src="../../Assets/CleanShot%202022-05-25%20at%2019.33.46%201.png"/> (utile per muovere e zoomare la mappa dal layout di stampa)
+- Zoom completo <img alt="CleanShot 2022-05-25 at 19.34.47.png" src="../../Assets/CleanShot%202022-05-25%20at%2019.34.47.png"/> (utile nel caso ci si muova inavvertitamente con lo zoom)
+- Inserire la mappa nel foglio  <img alt="CleanShot 2022-05-25 at 14.58.48.png" src="../../Assets/CleanShot%202022-05-25%20at%2014.58.48.png"/>
+- Inserire barra di scala  <img alt="CleanShot 2022-05-25 at 14.59.06.png" src="../../Assets/CleanShot%202022-05-25%20at%2014.59.06.png"/>
+- Inserire il nord  <img alt="CleanShot 2022-05-25 at 14.59.21.png" src="../../Assets/CleanShot%202022-05-25%20at%2014.59.21.png"/>
+- Inserire legenda  <img alt="CleanShot 2022-05-25 at 14.59.41.png" src="../../Assets/CleanShot%202022-05-25%20at%2014.59.41.png"/>
+    - Per un miglior risultato, spuntare la casella "aggiorna automaticamente" e rinominare "sweyhat_sites" come "Siti Archeologici" e spuntare anche la casella "Cornice" per fornire una cornice alla legenda.
+    - <img alt="CleanShot 2022-05-25 at 15.03.02.png" src="../../Assets/CleanShot%202022-05-25%20at%2015.03.02.png"/>
+    - Esportare immagine  <img alt="CleanShot 2022-05-25 at 16.18.15.png" src="../../Assets/CleanShot%202022-05-25%20at%2016.18.15.png"/></p>
+</article>
+</div>
+</div>
+<button class="md-top md-icon" data-md-component="top" hidden="" type="button">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"></path></svg>
+            Torna su
+          </button>
+</main>
+<footer class="md-footer">
+<div class="md-footer-meta md-typeset">
+<div class="md-footer-meta__inner md-grid">
+<div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" rel="noopener" target="_blank">
+      Material for MkDocs
+    </a>
+</div>
+<div class="md-social">
+<a class="md-social__link" href="https://github.com/andreatitolo/gislab2023" rel="noopener" target="_blank" title="Source Code">
+<svg viewbox="0 0 496 512" xmlns="http://www.w3.org/2000/svg"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"></path></svg>
+</a>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<div class="md-dialog" data-md-component="dialog">
+<div class="md-dialog__inner md-typeset"></div>
+</div>
+<script id="__config" type="application/json">{"base": "../..", "features": ["navigation.tabs", "navigation.sections", "navigation.top", "navigation.tracking", "navigation.indexes", "toc.follow", "content.code.annotate", "content.tooltips", "search.suggest", "search.highlight", "search.share"], "search": "../../assets/javascripts/workers/search.208ed371.min.js", "translations": {"clipboard.copied": "Copiato", "clipboard.copy": "Copia", "search.result.more.one": "1 altro in questa pagina", "search.result.more.other": "# altri in questa pagina", "search.result.none": "Nessun documento trovato", "search.result.one": "1 documento trovato", "search.result.other": "# documenti trovati", "search.result.placeholder": "Scrivi per iniziare a cercare", "search.result.term.missing": "Non presente", "select.version": "Seleziona la versione"}}</script>
+<script src="../../assets/javascripts/bundle.b4d07000.min.js"></script>
+<script src="../../javascripts/mathjax.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</body>
+</html>
